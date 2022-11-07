@@ -1,7 +1,7 @@
 ### Hi there 👋
-😄 Pronouns: He/Him
-💬 Ask me about the 12 week Java / AWS / Angular Quintrix training course I recently completed.
-⚡ Fun fact: I am my family's on-call tech support and curator of the family's collection of super hero/comic book movies.
+- 😄 Pronouns: He/Him
+- 💬 Ask me about the 12 week Java / AWS / Angular Quintrix training course I recently completed.
+- ⚡ Fun fact: I am my family's on-call tech support and curator of the family's collection of super hero/comic book movies.
 
 <!--
 **ejep520/ejep520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
