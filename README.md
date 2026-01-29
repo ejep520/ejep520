@@ -2,6 +2,7 @@
 - 😄 Pronouns: He/Him
 - 💬 Ask me about the master's degree in Software Engineering I will be completing this spring with [Washington State University](https://www.wsu.edu/)!
 - ⚡ Fun fact: I am my family's on-call tech support and curator of the family's collection of super hero/comic book movies.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erikjepsen) is preferred.
 
 <!--
 **ejep520/ejep520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 -->
